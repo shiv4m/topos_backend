@@ -13,7 +13,7 @@ Assumptions are -
 Place the topos_backend folder in the directory_to_go/src
 
 Running the code - 
-1. Change the configurations of postgresql database accordingly.
+1. Change the configurations of postgresql database accordingly on lines 44, 93, 110, 129, 169.
 2. run the go file from "topos_backend/src/app/main.go
 3. open browser and type localhost:8080/
 4. Browse with localhost:8080/,
