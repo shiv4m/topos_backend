@@ -5,6 +5,7 @@ A Go API to insert and query with PostgreSQL
 Instructions to run the code - 
 
 download the "topos_backend" folder from github.
+
 Assumptions are - 
 1. Postgresql is installed and configured
 2. Go is installed with proper GOROOT and GOPATH
