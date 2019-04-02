@@ -22,3 +22,6 @@ Running the code -
    for different analysis. 
    
 A demo.mp4 is also attached.
+
+
+https://www.github.com/lib/pq is used as postgresql driver for go.
